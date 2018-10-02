@@ -1,0 +1,2 @@
+1. [2018/10/11 普适计算课程 论文报告](./2018.10.2普适计算-课程报告.pptx)
+    * [Detecting State Changes of Indoor Everyday Objects using Wi-Fi Channel State Information](./paper/Detecting State Changes of Indoor Everyday Objects using Wi-Fi Channel State Information.pdf)
